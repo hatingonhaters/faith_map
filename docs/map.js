@@ -1,0 +1,1 @@
+// Interactive logic is handled via Leaflet and embedded data in index.html
